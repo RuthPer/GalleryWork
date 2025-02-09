@@ -17,15 +17,9 @@ OUTPUT_HTML = "gallery_captions.html"
 
 # List of images and their captions (replace with your actual filenames & captions)
 image_captions = {
-    "bates.webp": "Bates Dining Hall",
-    "collins.webp": "Collins Cafe",
-    "el-table.webp": "El Table",
-    "emporium.webp": "Emporium",
-    "hoop.webp": "Cafe Hoop",
-    "leaky-beaker.webp": "The Leaky Beaker",
-    "lulu.webp": "Bae Pao Lu Chow Dining Room",
-    "stone-d.webp": "Stone Davis Dining Hall",
-    "tower.webp": "Tower Dining Hall"
+    "IMG_4195.webp":"Mother I have soiled myself",
+    "IMG_4505.webp":"Cat Meme",
+    "IMG_4635.webp":"Sassy Cat"
 }
 
 # Filter out images that exist in the folder
