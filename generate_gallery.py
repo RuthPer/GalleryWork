@@ -8,7 +8,7 @@ Include a requirement.txt file to install all libraries that might be
 needed, such as jinja2 or anything else. Make sure that the images are 
 all shown in the same size. 
 Also, use an external CSS stylesheet, that the jinja2 template will 
-make use of.
+make use of yes.
 """
 
 import os

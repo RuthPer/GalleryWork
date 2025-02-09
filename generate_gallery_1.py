@@ -4,7 +4,7 @@
 CSS or JS code that when one hovers over each image, a transparent label 
 covers the image to show the caption of the image. I will provide a list 
 with the caption names and image file names. Also, use the caption names 
-for the alt attribute."""
+for the alt attributeh."""
 # This code modifies the code in the file "generate_gallery.py"
 
 import os
